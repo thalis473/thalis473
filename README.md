@@ -1,4 +1,4 @@
-### Seja Bem vindo 👋
+### Seja Bem-vindo 👋
 
 ## Prazer, Thalis Andrade
 - Moro no :brazil:, Estado: Rio de Janeiro :sunglasses::sunrise:
@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/-mongoDB-%23F7DF1C?style=flat-square&logo=mongoDB&logoColor=000000&labelColor=%7CFC00&color=%7CFC00)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-## Linguagems mais usadas
+## Linguagens mais usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalis473&layout=compact)](https://github.com/thalis473/github-readme-stats)
 
 
