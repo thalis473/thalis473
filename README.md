@@ -1,9 +1,9 @@
 ### Seja Bem-vindo 👋
 
 ## Prazer, Thalis Andrade
-- Moro no :brazil:, Estado: Rio de Janeiro :sunglasses::sunrise:
-- Apaixonado pela area de desenvolvimento , principalmente a parte do backeend :computer:
-- Linguagem preferida?? Java Script :sparkling_heart:
+- I live in :brazil:,Rio de Janeiro :sunglasses::sunrise:
+- Passionate about the development area, especially the backend :computer:
+- Preferred language?? Java Script :sparkling_heart:
 
 ## Conexões:
 <a href="https://www.linkedin.com/in/thalisandrade/" target="_blank">
@@ -16,7 +16,7 @@
 <img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
 </a>
 
-## Competências
+## Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
