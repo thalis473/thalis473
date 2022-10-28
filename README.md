@@ -1,11 +1,11 @@
-### Seja Bem-vindo 👋
+### Welcome 👋
 
-## Prazer, Thalis Andrade
+## Pleasure, Thalis Andrade
 - I live in :brazil:,Rio de Janeiro :sunglasses::sunrise:
 - Passionate about the development area, especially the backend :computer:
 - Preferred language?? Java Script :sparkling_heart:
 
-## Conexões:
+## Connections:
 <a href="https://www.linkedin.com/in/thalisandrade/" target="_blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/-mongoDB-%23F7DF1C?style=flat-square&logo=mongoDB&logoColor=000000&labelColor=%7CFC00&color=%7CFC00)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-## Linguagens mais usadas
+## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalis473&layout=compact)](https://github.com/thalis473/github-readme-stats)
 
 
